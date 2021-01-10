@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225404697000",
+    "project_id": "androidfirebasedata-9c8cc",
+    "storage_bucket": "androidfirebasedata-9c8cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225404697000:android:fb597e5d451806afa1859d",
+        "android_client_info": {
+          "package_name": "com.keepers.androidfirebasedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225404697000-oe5r2e5s1opf57hb18rfnuqnap06m8vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwOuTFxnhIgSpLs7As8lezNxw_5bbeWtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225404697000-oe5r2e5s1opf57hb18rfnuqnap06m8vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
